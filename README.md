@@ -1,1 +1,3 @@
 # counterApp
+
+React counter app
